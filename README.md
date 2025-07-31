@@ -1,5 +1,5 @@
 main
-# The-LION-Kingdom-Game
+# $SOTM
 InterBOxSpiderWeb.NET PRVPNRFAI.py 2025 - 2029 @RFOF-NETWORK BOxchain-extention
 
 # The-LION-Kingdom
